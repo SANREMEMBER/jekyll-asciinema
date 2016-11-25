@@ -20,7 +20,7 @@ In your Markdown post, simply include the following command:
 Asciinema Player example, `{% asciinema_play 92383 %}` will render as:  
 ```html
 <center>
-    <a href="https://asciinema.org/a/92383" target="_blank"><img src="https://asciinema.org/a/92383.png" width="661"/></a>
+	<script type="text/javascript" src="https://asciinema.org/a/92383.js" id="asciicast-92383" async></script>
 </center>
 ```
 
