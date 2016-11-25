@@ -1,12 +1,12 @@
-Jekyll Asciinema - The lazy way to embed Asciinema on Jekyll 
+Jekyll Asciinema - The lazy way to embed asciicast on Jekyll 
 ==============
 
-A plugin for Jekyll to embed [Asciinema](https://asciinema.org), you can choose to embed Aciinema player or Asciinema image link on Jekyll.
+A plugin for Jekyll to embed asciicast [Asciinema](https://asciinema.org), you can choose to embed Aciicast player or Asciicast image link on Jekyll.
 
 > Based on [Easy Youtube Embed for Jekyll](https://github.com/pibby/jekyll-youtube) by [Katie Harron](https://pibby.com/)
 
 ## Demo
-[Jekyll Arsciinema Plugin](https://sanremember.com/2016-11-25-jekyll-asciinema-care-cepat-sematkan-asciinema-di-jekyll/)
+[Jekyll Arsciinema Plugin](https://sanremember.com/2016-11-25-jekyll-asciinema-cara-cepat-sematkan-asciicast-di-jekyll/)
 
 ## Installation Instructions
 Download the file `asciinema.rb` and place it in your `_plugins` folder of your Jekyll installation.
